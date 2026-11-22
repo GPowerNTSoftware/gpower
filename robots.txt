@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gpowerntsoftware.github.io/gpower/sitemap.xml
