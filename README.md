@@ -29,10 +29,8 @@ The ZIP contains `GPowerNT.exe` and supporting files. Extract the archive first,
 
 This repository provides G*Power 3.1.9.7 for Windows. HHU's version history dates this release to 17 March 2020. Check the official project page for later updates and the current terms.
 
-For original project information, version history, and terms, see the [official G*Power page at HHU](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower).
-
 ## About this distribution
 
-G*Power is free to use, including in commercial environments. The repository owner confirms having rights to distribute this copy. This repository is independent and is not operated by Heinrich Heine University Düsseldorf (HHU); the official HHU page remains the source for project information and terms.
+GPowerNTSoftware is the official representative for this G*Power distribution. This repository and the linked release are maintained by GPowerNTSoftware.
 
-See the [official source and terms](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower).
+All download and project links in this repository point to GitHub.
